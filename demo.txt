@@ -8,3 +8,4 @@ hello git
 hello git
 test conflict,add in master
 test conflict,add in newBranch
+add content in github
