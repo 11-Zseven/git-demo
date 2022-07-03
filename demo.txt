@@ -1,10 +1,9 @@
 branch --- newBranch
 hello git
-
-hello git
-
-ihello git
 hello git
 hello git
 hello git
 hello git
+hello git
+hello git
+test conflict,add in newBranch
